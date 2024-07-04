@@ -1,6 +1,5 @@
 Hello I have added 1 line in alice.txt file
 
-
-Hey Hi
-
 Hello everyone
+
+This is the king.
